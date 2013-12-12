@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="305abec1-67ca-4da8-8795-99c25fe0b4a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
-    </list>
+    <list default="true" id="305abec1-67ca-4da8-8795-99c25fe0b4a2" name="Default" comment="" />
     <ignored path="findMe.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1386855057208" ignored="false" />
