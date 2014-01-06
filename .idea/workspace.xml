@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="305abec1-67ca-4da8-8795-99c25fe0b4a2" name="Default" comment="" />
-    <list id="dd01efa8-884b-4743-8543-6d6ff5c69ea9" name="workspace" comment="">
+    <list default="true" id="305abec1-67ca-4da8-8795-99c25fe0b4a2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/app/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/app/__init__.py" afterPath="$PROJECT_DIR$/backend/app/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/activate.csh" afterPath="$PROJECT_DIR$/backend/flask/bin/activate.csh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/activate.fish" afterPath="$PROJECT_DIR$/backend/flask/bin/activate.fish" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/activate" afterPath="$PROJECT_DIR$/backend/flask/bin/activate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/lib/python2.7/site-packages/easy-install.pth" afterPath="$PROJECT_DIR$/backend/flask/lib/python2.7/site-packages/easy-install.pth" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/easy_install-2.7" afterPath="$PROJECT_DIR$/backend/flask/bin/easy_install-2.7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/easy_install" afterPath="$PROJECT_DIR$/backend/flask/bin/easy_install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/findMe.iml" afterPath="$PROJECT_DIR$/.idea/findMe.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/pip-2.7" afterPath="$PROJECT_DIR$/backend/flask/bin/pip-2.7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/bin/pip" afterPath="$PROJECT_DIR$/backend/flask/bin/pip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/flask/lib/python2.7/site-packages/setuptools.pth" afterPath="$PROJECT_DIR$/backend/flask/lib/python2.7/site-packages/setuptools.pth" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/app/views.py" afterPath="$PROJECT_DIR$/backend/app/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="dd01efa8-884b-4743-8543-6d6ff5c69ea9" name="workspace" comment="" />
     <ignored path="findMe.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1386856143633" ignored="false" />
-    <file path="/__init__.py" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1386855970697" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1386858125080" ignored="false" />
+    <file path="/Dummy.txt" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1387035706355" ignored="false" />
+    <file path="/__init__.py" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1387056411737" ignored="false" />
+    <file path="/views.py" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1387103426049" ignored="false" />
+    <file path="/forms.py" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1387036264071" ignored="false" />
+    <file path="/models.py" changelist="305abec1-67ca-4da8-8795-99c25fe0b4a2" time="1387055930178" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +49,41 @@
       <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/app/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="21" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+            <state line="9" column="46" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#24#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/app/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="7" selection-start="3083" selection-end="3083" vertical-scroll-proportion="-19.041666">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="untitled.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/untitled/untitled.py">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../thatriff/backend/that_riff/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="22" column="42" selection-start="499" selection-end="737" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/run.py">
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../thatriff/backend/that_riff/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="156" column="40" selection-start="4935" selection-end="4935" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#1#94#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,8 +91,21 @@
       <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="98" column="24" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.32485324">
+              <folding>
+                <element signature="e#25#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="50" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,7 +131,11 @@
       <list>
         <option value="$PROJECT_DIR$/backend/run.py" />
         <option value="$USER_HOME$/PycharmProjects/untitled/untitled.py" />
+        <option value="$PROJECT_DIR$/../thatriff/backend/that_riff/app/forms.py" />
+        <option value="$PROJECT_DIR$/backend/app/templates/index.html" />
         <option value="$PROJECT_DIR$/backend/app/__init__.py" />
+        <option value="$PROJECT_DIR$/backend/app/models.py" />
+        <option value="$PROJECT_DIR$/backend/app/views.py" />
       </list>
     </option>
   </component>
@@ -135,6 +184,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="that_riff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findMe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="that_riff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findMe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="findMe" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -169,8 +242,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../overoffers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thatriff/backend/that_riff" />
     <property name="FullScreen" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager" selected="Python.findMe">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -188,6 +262,29 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="findMe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -267,23 +364,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25322813" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040173" sideWeight="0.67206985" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32793018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -321,7 +418,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -358,6 +455,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/backend/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#25#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/untitled/untitled.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -365,9 +480,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/app/__init__.py">
+    <entry file="file://$PROJECT_DIR$/backend/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+        <state line="2" column="21" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -375,7 +490,93 @@
     <entry file="file://$PROJECT_DIR$/backend/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#25#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/untitled.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../thatriff/backend/that_riff/app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="27" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../thatriff/backend/that_riff/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="21" selection-start="0" selection-end="1047" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="60" selection-end="60" vertical-scroll-proportion="0.06147541">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../thatriff/backend/that_riff/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="42" selection-start="499" selection-end="737" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="7" selection-start="3083" selection-end="3083" vertical-scroll-proportion="-19.041666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="46" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#24#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../thatriff/backend/that_riff/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="40" selection-start="4935" selection-end="4935" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="50" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="24" selection-start="2804" selection-end="2804" vertical-scroll-proportion="0.32485324">
+          <folding>
+            <element signature="e#25#118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

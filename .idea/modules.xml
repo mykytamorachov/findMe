@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/findMe.iml" filepath="$PROJECT_DIR$/.idea/findMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thatriff/backend/that_riff/.idea/that_riff.iml" filepath="$PROJECT_DIR$/../thatriff/backend/that_riff/.idea/that_riff.iml" />
     </modules>
   </component>
 </project>
